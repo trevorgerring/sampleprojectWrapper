@@ -1,5 +1,5 @@
-site_name: tcprojWrapper
-repo_url: https://github.com/topcoderinc/tcProjWrapper
+site_name: sampleprojectWrapper
+repo_url: https://github.com/trevorgerring/sampleprojectWrapper
 pages:
     - 'Topcoder Docs':
        - 'Copilot Responsibilities': topcoder/copilotsResponsiblites.md
