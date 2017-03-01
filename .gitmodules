@@ -1,0 +1,3 @@
+[submodule "src/wireframes"]
+	path = src/wireframes
+	url = git@github.com:trevorgerring/samplewireframes.git
